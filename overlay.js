@@ -1,5 +1,5 @@
 /*
-	overlay.js v0.1
+	overlay.js v0.1 by NettoNE
 
 	Usage:
 	overlay(); or overlay({ remove: false });
